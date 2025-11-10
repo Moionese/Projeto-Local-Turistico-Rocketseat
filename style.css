@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+}
+
+#d1, #d2 {
+    border-top: solid;
+}
+
+img {
+    border-radius: 28px;
+}
+
+footer {
+    text-align: center;
+}
