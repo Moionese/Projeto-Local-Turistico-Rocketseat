@@ -9,11 +9,8 @@
 
 body {
     box-sizing: border-box;
-}
-
-main {
-    width: 1120;
-    margin: 88px 80px;
+    width: 1120px;
+    margin: 88px 80px;    
 }
 
 header {
@@ -38,8 +35,26 @@ h1 {
     color: #1B1B1B;
 }
 
+#presentation {
+    margin: 40px auto;
+}
+
+#presentation img {
+    margin-bottom: 24px;
+}
+
+#presentation p {
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+}
+
 img {
     border-radius: 28px;
+}
+
+ul {
+    padding-left: 2.5%;
 }
 
 footer {
