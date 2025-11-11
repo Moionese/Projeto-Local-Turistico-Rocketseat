@@ -1,1 +1,1 @@
-Projeto para o curso Fullstack Developer da Rocketseat
+Projeto para o curso Full-Stack Developer da Rocketseat
